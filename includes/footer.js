@@ -57,7 +57,7 @@ document.querySelector("footer").innerHTML = `
 
             <div class="d-flex flex-wrap justify-content-between">
                 <div class="align-self-end">
-                    <p>Designed & Developed by</p>
+                    // <p>Designed & Developed by</p>
                 </div>
                 <div>
                      <h3 class="h1 style_font" style="font-family: 'Allura', cursive; opacity: .3;">Seeni Vasan</h3>
