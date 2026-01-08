@@ -43,7 +43,7 @@ document.querySelector("footer").innerHTML = `
                 </div>
 
                 <div class="col-1">
-                    <div class="py-3"> <h6 class="fw-bold">Navigation</h6>
+                    <div class="py-3"> <h6 class="fs-4 fw-bold">Navigation</h6>
                     <ul class="list-unstyled">
                         <li class="my-2"><a href="about.html" class="text-decoration-none" target="_blank">About</a>
                         </li>
