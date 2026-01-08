@@ -295,7 +295,14 @@ footer a,
 footer .fa-brands {
   color: black;
 }
-
+footer .style_font{
+  font-size:5em;
+}
+@media screen and (max-width: 576px) {
+footer .style_font{
+  font-size:2em;
+}
+}
 footer a:hover,
 footer .fa-brands:hover {
   color: #555;

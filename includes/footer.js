@@ -60,7 +60,7 @@ document.querySelector("footer").innerHTML = `
                     <p>Designed & Developed by</p>
                 </div>
                 <div>
-                    <h3 class="h1" style="font-size:5em; font-family: 'Allura', cursive; opacity: .3;">Seeni Vasan</h3>
+                     <h3 class="h1 style_font" style="font-family: 'Allura', cursive; opacity: .3;">Seeni Vasan</h3>
                 </div>
             </div>
         </div>
