@@ -43,7 +43,7 @@ document.querySelector("footer").innerHTML = `
                 </div>
 
                 <div class="col-1">
-                    <div class="py-3"> <h6 class="fs-4 fw-bold">Navigation</h6>
+                    <div class="py-3"> <h6 class="fw-bold fs-4">Navigation</h6>
                     <ul class="list-unstyled">
                         <li class="my-2"><a href="about.html" class="text-decoration-none" target="_blank">About</a>
                         </li>
@@ -56,22 +56,16 @@ document.querySelector("footer").innerHTML = `
             </div>
 
             <div class="d-flex flex-wrap justify-content-between">
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-                // <div class="align-self-end">
-                //    <p>Designed & Developed by</p>
-                // </div>
-=======
->>>>>>> 7586097 (Add changes)
->>>>>>> 6adcb65 (Add changes)
+                <div class="align-self-end">
+                    <p>Designed & Developed by</p>
+                </div>
                 <div>
-                     <h3 class="h1 style_font" style="font-family: 'Allura', cursive; opacity: .3;">Seeni Vasan</h3>
+                    <h3 class="h1 style_font" style="font-family: 'Allura', cursive; opacity: .3;">Seeni Vasan</h3>
                 </div>
             </div>
         </div>
 `;
-// -------------------
+
 const btn = document.getElementById("backToTop");
 
 window.addEventListener("scroll", () => {
